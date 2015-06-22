@@ -1,5 +1,7 @@
 # Layouts
 
+[![Join the chat at https://gitter.im/squaretalent/radiant-layouts-extension](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/squaretalent/radiant-layouts-extension?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Merges share_layouts and nested_layouts, making the whole layout adventure a lot more enjoyable
 
 ## Share Layouts
